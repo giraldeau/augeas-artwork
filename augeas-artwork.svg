@@ -86,7 +86,7 @@
      showgrid="false"
      inkscape:window-width="1513"
      inkscape:window-height="1027"
-     inkscape:window-x="1685"
+     inkscape:window-x="405"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      showguides="true"
@@ -117,17 +117,17 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:rights>
         <dc:publisher>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:publisher>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:description></dc:description>
+        <dc:description />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -159,9 +159,10 @@
        width="437.12579" />
     <g
        id="g3043"
-       inkscape:export-filename="/data/francis/workspace/augeas-artwork/augeas-logo-v2.png"
-       inkscape:export-xdpi="41.576527"
-       inkscape:export-ydpi="41.576527">
+       inkscape:export-filename="/home/raphink/Documents/augeas-artwork/augeas-logo-v2.png"
+       inkscape:export-xdpi="41.333809"
+       inkscape:export-ydpi="41.333809"
+       transform="translate(-8,-12)">
       <g
          transform="matrix(0.50875536,0,0,0.50875536,204.28549,321.29135)"
          id="g3004">
@@ -185,7 +186,7 @@
          x="394.33041"
          style="font-size:87.08124542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3788);fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          xml:space="preserve"><tspan
-           style="fill:url(#linearGradient3788);fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3788);fill-opacity:1;font-family:Inder;-inkscape-font-specification:Inder"
            dx="0 -6.0868378 -3.9542539 -3.9542539 -3.2296953 -3.2296953"
            y="608.52533"
            x="394.33041"
@@ -266,10 +267,10 @@
            y="65.443153" /></flowRegion><flowPara
          id="flowPara3848">Notes:</flowPara><flowPara
          id="flowPara3850">This SVG drawing is based on the original PNG logo of the project Augeas. There were no vector version of the logo for icons and other usages. So, I reversed engineered the drawing to vectorize it.</flowPara><flowPara
-         id="flowPara3033"></flowPara><flowPara
+         id="flowPara3033" /><flowPara
          id="flowPara3035">The drawing has been done with the help of an axonometric grid of 30 degrees.</flowPara><flowPara
          id="flowPara3039" /><flowPara
-         id="flowPara3037">Original logo's font is unkown. Here we replaced it by Ubuntu sans serif. It is similar, but the lowercase a&quot; do not fit.</flowPara><flowPara
+         id="flowPara3037">Original logo's font is (most likely) Proxima Nova A, but it's a non-free font, so it was replaced here by Inder (SIL OFL).</flowPara><flowPara
          id="flowPara3852" /><flowPara
          id="flowPara3854" /></flowRoot>    <text
        xml:space="preserve"
