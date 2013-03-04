@@ -1,1 +1,12 @@
 Files related to Augeas artwork, including logo and icons.
+
+The SVG file has been created with Inkscape.
+
+    http://inkscape.org
+
+Rendering the SVG requires Inder font. The font can be downloaded here:
+
+    http://www.google.com/webfonts
+
+For convenience, the font is shipped with the artwork, and can be installed
+with the provided script install-font.sh (uses fontconfig).
